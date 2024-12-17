@@ -1,0 +1,11 @@
+,MovieID,ratings_per_movie,ave_ratings,Title,Genres,Year,Image
+309,318,2227,4.554557700942973,"Shawshank Redemption, The (1994)",Drama,1994.0,"<img src=""https://liangfgithub.github.io/MovieImages/318.jpg?raw=true""></img>"
+802,858,2223,4.524966261808367,"Godfather, The (1972)",Action|Crime|Drama,1972.0,"<img src=""https://liangfgithub.github.io/MovieImages/858.jpg?raw=true""></img>"
+49,50,1783,4.517106001121705,"Usual Suspects, The (1995)",Crime|Thriller,1995.0,"<img src=""https://liangfgithub.github.io/MovieImages/50.jpg?raw=true""></img>"
+513,527,2304,4.510416666666667,Schindler's List (1993),Drama|War,1993.0,"<img src=""https://liangfgithub.github.io/MovieImages/527.jpg?raw=true""></img>"
+1108,1198,2514,4.477724741447892,Raiders of the Lost Ark (1981),Action|Adventure,1981.0,"<img src=""https://liangfgithub.github.io/MovieImages/1198.jpg?raw=true""></img>"
+843,904,1050,4.476190476190476,Rear Window (1954),Mystery|Thriller,1954.0,"<img src=""https://liangfgithub.github.io/MovieImages/904.jpg?raw=true""></img>"
+253,260,2991,4.453694416583082,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Fantasy|Sci-Fi,1977.0,"<img src=""https://liangfgithub.github.io/MovieImages/260.jpg?raw=true""></img>"
+713,750,1367,4.4498902706656915,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),Sci-Fi|War,1963.0,"<img src=""https://liangfgithub.github.io/MovieImages/750.jpg?raw=true""></img>"
+851,912,1669,4.412822049131217,Casablanca (1942),Drama|Romance|War,1942.0,"<img src=""https://liangfgithub.github.io/MovieImages/912.jpg?raw=true""></img>"
+2557,2762,2459,4.406262708418057,"Sixth Sense, The (1999)",Thriller,1999.0,"<img src=""https://liangfgithub.github.io/MovieImages/2762.jpg?raw=true""></img>"
