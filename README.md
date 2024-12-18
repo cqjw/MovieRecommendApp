@@ -1,2 +1,2 @@
 ## Live App
-[Link](https://movierecommendapp.onrender.com)
+Deployed with Render. [Link](https://movierecommendapp.onrender.com)
