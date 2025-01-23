@@ -40,7 +40,8 @@ sidebar = html.Div(
         dbc.Nav(
             [
                 dbc.NavLink("System I - Top10 Movies by Ave Rating", href="/", active="exact"),
-                dbc.NavLink("System II - Item Based Collaborative Filtering (with or without user rating input)", href="/system-2", active="exact"),
+                #dbc.NavLink("System II - Item Based Collaborative Filtering (with or without user rating input)", href="/system-2", active="exact"),
+                dbc.NavLink("System II - Customized Recommendation by User Input", href="/system-2", active="exact"),
             ],
             vertical=True,
             pills=True,
